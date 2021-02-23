@@ -13,5 +13,6 @@ class UShooterCharacterMovement : public UCharacterMovementComponent
 	GENERATED_UCLASS_BODY()
 
 	virtual float GetMaxSpeed() const override;
+
 };
 
